@@ -1,0 +1,108 @@
+{
+  "destinations": [
+    {
+      "name": "Moon",
+      "images": {
+        "png": "./destination/image-moon.png",
+        "webp": "./destination/image-moon.webp"
+      },
+      "description": "See our planet as you’ve never seen it before. A perfect relaxing trip away to help regain perspective and come back refreshed. While you’re there, take in some history by visiting the Luna 2 and Apollo 11 landing sites.",
+      "distance": "384,400 km",
+      "travel": "3 days"
+    },
+    {
+      "name": "Mars",
+      "images": {
+        "png": "./destination/image-mars.png",
+        "webp": "./destination/image-mars.webp"
+      },
+      "description": "Don’t forget to pack your hiking boots. You’ll need them to tackle Olympus Mons, the tallest planetary mountain in our solar system. It’s two and a half times the size of Everest!",
+      "distance": "225 mil. km",
+      "travel": "9 months"
+    },
+    {
+      "name": "Europa",
+      "images": {
+        "png": "./destination/image-europa.png",
+        "webp": "./destination/image-europa.webp"
+      },
+      "description": "The smallest of the four Galilean moons orbiting Jupiter, Europa is a winter lover’s dream. With an icy surface, it’s perfect for a bit of ice skating, curling, hockey, or simple relaxation in your snug wintery cabin.",
+      "distance": "628 mil. km",
+      "travel": "3 years"
+    },
+    {
+      "name": "Titan",
+      "images": {
+        "png": "./destination/image-titan.png",
+        "webp": "./destination/image-titan.webp"
+      },
+      "description": "The only moon known to have a dense atmosphere other than Earth, Titan is a home away from home (just a few hundred degrees colder!). As a bonus, you get striking views of the Rings of Saturn.",
+      "distance": "1.6 bil. km",
+      "travel": "7 years"
+    }
+  ],
+  "crew": [
+    {
+      "name": "Agatha Bernard",
+      "images": {
+        "png": "./crew/image-agatha-bernard.png",
+        "webp": "./crew/image-agatha-bernard.webp"
+      },
+      "role": "Commander",
+      "bio": "Agatha Bernard is an experienced mission commander with years of aerospace leadership. She has led multiple expeditions and is known for her precision and composure under pressure."
+    },
+    {
+      "name": "Aiden Austin",
+      "images": {
+        "png": "./crew/image-aiden-austin.png",
+        "webp": "./crew/image-aiden-austin.webp"
+      },
+      "role": "Mission Specialist",
+      "bio": "Aiden Austin is a mission specialist with expertise in spacecraft systems and long-duration missions. He is dedicated to advancing human space exploration."
+    },
+    {
+      "name": "Jackie Wong",
+      "images": {
+        "png": "./crew/image-jackie-wong.jpg",
+        "webp": "./crew/image-jackie-wong.webp"
+      },
+      "role": "Pilot",
+      "bio": "Jackie Wong is the chief pilot for orbital and deep-space missions. With years of flight experience, she ensures smooth navigation and mission safety."
+    },
+    {
+      "name": "Travis Scott",
+      "images": {
+        "png": "./crew/image-travis-scott.png",
+        "webp": "./crew/image-travis-scott.webp"
+      },
+      "role": "Flight Engineer",
+      "bio": "Travis Scott is the flight engineer responsible for technical systems and maintenance in space. His skills keep missions running smoothly from launch to landing."
+    }
+  ],
+  "technology": [
+    {
+      "name": "Launch vehicle",
+      "images": {
+        "portrait": "./technology/image-launch-vehicle-portrait.jpg",
+        "landscape": "./technology/image-launch-vehicle-landscape.jpg"
+      },
+      "description": "A launch vehicle or carrier rocket is a rocket-propelled vehicle used to carry a payload from Earth's surface to space, usually to Earth orbit or beyond. Our WEB-X carrier rocket is the most powerful in operation. Standing 150 metres tall, it's quite an awe-inspiring sight on the launch pad!"
+    },
+    {
+      "name": "Spaceport",
+      "images": {
+        "portrait": "./technology/image-spaceport-portrait.jpg",
+        "landscape": "./technology/image-spaceport-landscape.jpg"
+      },
+      "description": "A spaceport or cosmodrome is a site for launching (or receiving) spacecraft, by analogy to the seaport for ships or airport for aircraft. Based in the famous Cape Canaveral, our spaceport is ideally situated to take advantage of the Earth’s rotation for launch."
+    },
+    {
+      "name": "Space capsule",
+      "images": {
+        "portrait": "./technology/image-space-capsule-portrait.jpg",
+        "landscape": "./technology/image-space-capsule-landscape.jpg"
+      },
+      "description": "A space capsule is an often-crewed spacecraft that uses a blunt-body reentry capsule to reenter the Earth's atmosphere without wings. Our capsule is where you'll spend your time during the flight. It includes a space gym, cinema, and plenty of other activities to keep you entertained."
+    }
+  ]
+}
