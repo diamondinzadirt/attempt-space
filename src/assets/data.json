@@ -6,9 +6,9 @@
         "png": "./destination/image-moon.png",
         "webp": "./destination/image-moon.webp"
       },
-      "description": "See our planet as you’ve never seen it before. A perfect relaxing trip away to help regain perspective and come back refreshed. While you’re there, take in some history by visiting the Luna 2 and Apollo 11 landing sites.",
-      "distance": "384,400 km",
-      "travel": "3 days"
+      "description": "Experience Earth’s natural satellite like never before. The Moon offers not just breathtaking views of our home planet suspended in the darkness of space, but also the thrill of standing where history was made. Explore the Apollo 11 landing site, take part in low-gravity excursions, or relax in luxury lunar domes designed with transparent ceilings for uninterrupted stargazing. During your stay, join expert-led geology tours that reveal billions of years of cosmic history etched into the Moon’s surface. Evening events include immersive VR recreations of mankind’s first steps and gourmet dinners with Earthrise as your backdrop. It’s a rare chance to rediscover your place in the universe and return home forever changed.",
+      "distance": "Approximately 384,400 km from Earth",
+      "travel": "A quick 3-day journey aboard our state-of-the-art transport capsule"
     },
     {
       "name": "Mars",
@@ -16,9 +16,9 @@
         "png": "./destination/image-mars.png",
         "webp": "./destination/image-mars.webp"
       },
-      "description": "Don’t forget to pack your hiking boots. You’ll need them to tackle Olympus Mons, the tallest planetary mountain in our solar system. It’s two and a half times the size of Everest!",
-      "distance": "225 mil. km",
-      "travel": "9 months"
+      "description": "Adventure seekers, welcome to Mars — the Red Planet. Here, you’ll trek across vast rust-colored deserts, marvel at valleys deeper than the Grand Canyon, and behold Olympus Mons, a volcano towering nearly three times higher than Everest. Our Mars expeditions offer guided rover tours, thrilling low-gravity hikes, and evenings under skies tinted in soft shades of pink and orange. Guests stay in climate-controlled biodomes equipped with Earth-like amenities, lush hydroponic gardens, and breathtaking Martian vistas. Cultural evenings include storytelling sessions about historic Mars missions and stargazing parties that let you witness constellations in a sky unlike any seen from Earth. Mars isn’t just a destination — it’s the new frontier of exploration and imagination.",
+      "distance": "Around 225 million km from Earth",
+      "travel": "A bold 9-month voyage across interplanetary space"
     },
     {
       "name": "Europa",
@@ -26,9 +26,9 @@
         "png": "./destination/image-europa.png",
         "webp": "./destination/image-europa.webp"
       },
-      "description": "The smallest of the four Galilean moons orbiting Jupiter, Europa is a winter lover’s dream. With an icy surface, it’s perfect for a bit of ice skating, curling, hockey, or simple relaxation in your snug wintery cabin.",
-      "distance": "628 mil. km",
-      "travel": "3 years"
+      "description": "Step onto Europa, Jupiter’s icy moon, where every day feels like a journey into a frozen wonderland. With its shimmering ice crust and geysers that shoot water vapor high into space, Europa captivates scientists and dreamers alike. Visitors can skate on frozen plains in low gravity, relax in warm glass-domed cabins with uninterrupted views of Jupiter’s storms, and even join guided expeditions to observe cryovolcanoes erupting with spectacular force. Evenings offer the ultimate winter escape: hot cocoa under the glow of Jupiter looming in the sky. For those seeking not only beauty but also mystery, Europa provides the thrill of possibly being humanity’s first step toward discovering alien oceans and maybe life itself beneath the ice.",
+      "distance": "Approximately 628 million km from Earth",
+      "travel": "A breathtaking 3-year odyssey across the solar system"
     },
     {
       "name": "Titan",
@@ -36,9 +36,9 @@
         "png": "./destination/image-titan.png",
         "webp": "./destination/image-titan.webp"
       },
-      "description": "The only moon known to have a dense atmosphere other than Earth, Titan is a home away from home (just a few hundred degrees colder!). As a bonus, you get striking views of the Rings of Saturn.",
-      "distance": "1.6 bil. km",
-      "travel": "7 years"
+      "description": "Titan, Saturn’s largest moon, is a surreal world with golden skies and lakes of liquid methane. Imagine sailing across alien seas, gliding down in parachutes through Titan’s thick orange haze, or strolling along dunes that resemble deserts on Earth yet feel entirely otherworldly. Our luxury Titan domes provide panoramic views of Saturn’s majestic rings, making every sunrise a once-in-a-lifetime spectacle. Guests can try methane-rafting adventures, attend astrophotography workshops under Saturn’s glow, or enjoy spa retreats designed for relaxation after long exploration days. Titan is more than a destination — it’s a home away from home that gives you the comfort of familiarity while immersing you in the thrill of the truly unknown.",
+      "distance": "Roughly 1.6 billion km from Earth",
+      "travel": "A 7-year interstellar adventure with plenty of training and onboard luxuries"
     }
   ],
   "crew": [
@@ -49,7 +49,7 @@
         "webp": "./crew/image-agatha-bernard.webp"
       },
       "role": "Commander",
-      "bio": "Agatha Bernard is an experienced mission commander with years of aerospace leadership. She has led multiple expeditions and is known for her precision and composure under pressure."
+      "bio": "Agatha Bernard leads with wisdom, courage, and unshakable calm. With over 25 years in aerospace exploration, she has commanded multiple orbital and deep-space missions. Her ability to inspire unity under pressure has earned her respect across the global space community. Agatha believes space travel is more than exploration — it’s a journey that reshapes the human spirit. During missions, she holds fireside-style talks with her crew, sharing stories of historic space pioneers while preparing the team for the challenges ahead. Passengers often describe her as both a mentor and a beacon of reassurance, guiding them safely through the cosmos."
     },
     {
       "name": "Aiden Austin",
@@ -58,7 +58,7 @@
         "webp": "./crew/image-aiden-austin.webp"
       },
       "role": "Mission Specialist",
-      "bio": "Aiden Austin is a mission specialist with expertise in spacecraft systems and long-duration missions. He is dedicated to advancing human space exploration."
+      "bio": "Aiden Austin is the technical brain of the crew, blending engineering genius with a passion for discovery. Known for his groundbreaking work in robotics and spacecraft systems, Aiden ensures that every mission runs smoothly, from launch protocols to interplanetary research. Beyond the technical side, he organizes interactive science sessions for passengers, helping them understand phenomena like microgravity farming or solar winds. His approachable nature turns complex science into fascinating stories, leaving travelers inspired and eager to learn more about the vast universe."
     },
     {
       "name": "Jackie Wong",
@@ -67,7 +67,7 @@
         "webp": "./crew/image-jackie-wong.webp"
       },
       "role": "Pilot",
-      "bio": "Jackie Wong is the chief pilot for orbital and deep-space missions. With years of flight experience, she ensures smooth navigation and mission safety."
+      "bio": "Jackie Wong is the heart behind the controls. With nerves of steel and unmatched skill, she has logged thousands of hours piloting spacecraft through Earth’s orbit and beyond. Jackie ensures every maneuver — from docking with orbital stations to deep-space navigation — feels smooth and seamless for passengers. Off duty, she often hosts stargazing workshops, teaching travelers how to spot constellations visible only from deep space. Her charisma, combined with her precise piloting, makes her a crew favorite, embodying the spirit of curiosity and adventure that defines human exploration."
     },
     {
       "name": "Travis Scott",
@@ -76,7 +76,7 @@
         "webp": "./crew/image-travis-scott.webp"
       },
       "role": "Flight Engineer",
-      "bio": "Travis Scott is the flight engineer responsible for technical systems and maintenance in space. His skills keep missions running smoothly from launch to landing."
+      "bio": "Travis Scott is the problem-solver, the one who keeps systems humming no matter what challenges arise in space. A mechanical engineer by training, Travis is known for turning complex problems into simple solutions, often improvising repairs in the harshest conditions. Beyond technical mastery, he’s passionate about sustainable space travel — pioneering new ways to recycle resources and conserve energy aboard spacecraft. With a mix of humor and ingenuity, Travis is the crew member who reminds everyone that even in the vast emptiness of space, teamwork and creativity can make it feel like home."
     }
   ],
   "technology": [
@@ -86,7 +86,7 @@
         "portrait": "./technology/image-launch-vehicle-portrait.jpg",
         "landscape": "./technology/image-launch-vehicle-landscape.jpg"
       },
-      "description": "A launch vehicle or carrier rocket is a rocket-propelled vehicle used to carry a payload from Earth's surface to space, usually to Earth orbit or beyond. Our WEB-X carrier rocket is the most powerful in operation. Standing 150 metres tall, it's quite an awe-inspiring sight on the launch pad!"
+      "description": "The launch vehicle is the thunderous gateway to your journey. Our WEB-X carrier rocket is not just powerful, but beautifully engineered for both performance and safety. Towering 150 metres high, it carries passengers beyond Earth’s grip with reusable boosters that elegantly glide back for future launches. Inside, you’ll experience the raw force of liftoff — seats vibrating as the rocket pushes against gravity — followed by the quiet serenity of orbit. Interactive screens provide real-time stats of altitude and speed, letting passengers witness every stage of ascent. With safety systems perfected over years of testing, this launch is thrilling yet reassuring, turning nervousness into awe."
     },
     {
       "name": "Spaceport",
@@ -94,7 +94,7 @@
         "portrait": "./technology/image-spaceport-portrait.jpg",
         "landscape": "./technology/image-spaceport-landscape.jpg"
       },
-      "description": "A spaceport or cosmodrome is a site for launching (or receiving) spacecraft, by analogy to the seaport for ships or airport for aircraft. Based in the famous Cape Canaveral, our spaceport is ideally situated to take advantage of the Earth’s rotation for launch."
+      "description": "The spaceport is where dreams begin. Designed with cutting-edge architecture, it combines the buzz of an international airport with the wonder of a cosmic gateway. Travelers check in at futuristic terminals, pass through training lounges equipped with zero-gravity simulators, and relax in glass-walled observation decks while rockets are prepared. Families wave goodbye in panoramic viewing halls as engines ignite, and VIP passengers can access private suites overlooking the launch pads. Every corner of the spaceport exudes anticipation, creating an atmosphere where excitement builds long before the rocket leaves the ground."
     },
     {
       "name": "Space capsule",
@@ -102,7 +102,7 @@
         "portrait": "./technology/image-space-capsule-portrait.jpg",
         "landscape": "./technology/image-space-capsule-landscape.jpg"
       },
-      "description": "A space capsule is an often-crewed spacecraft that uses a blunt-body reentry capsule to reenter the Earth's atmosphere without wings. Our capsule is where you'll spend your time during the flight. It includes a space gym, cinema, and plenty of other activities to keep you entertained."
+      "description": "The capsule is your home among the stars. Every detail has been designed for comfort in the cosmos: soft adaptive lighting that mimics Earth’s day/night cycles, spacious viewing ports that frame the planets as you pass, and private cabins equipped with climate controls. A recreation hub includes VR lounges, a micro-cinema, and low-gravity exercise facilities. Meals are a highlight, blending hydroponically grown produce with gourmet dishes prepared by onboard chefs. Beyond luxury, the capsule is a marvel of safety, with advanced shielding and AI-assisted systems ensuring smooth travel. Inside the capsule, you’ll realize that space isn’t cold or empty — it’s alive with possibility."
     }
   ]
 }
